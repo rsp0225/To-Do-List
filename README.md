@@ -9,10 +9,10 @@ This project is now hosted on Netlify. You can view the live site at [https://to
 ## Technologies Used
 The following technologies were used to create the Number Guessing Game:
 
--HTML: The structure and layout of the webpage were created using HTML.
--CSS: The styling of the webpage was implemented using CSS.
--JavaScript: JavaScript is used to provide the to-do-list's logic and to make features interactive.
--Bootstrap: The layout, styling, and responsive design of the webpage were created using Bootstrap.
+- HTML: The structure and layout of the webpage were created using HTML.
+- CSS: The styling of the webpage was implemented using CSS.
+- JavaScript: JavaScript is used to provide the to-do-list's logic and to make features interactive.
+- Bootstrap: The layout, styling, and responsive design of the webpage were created using Bootstrap.
 
 ## Features
 1. Users can add tasks.
